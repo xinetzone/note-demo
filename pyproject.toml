@@ -6,7 +6,7 @@ requires = ["flit_core >=3.4,<4"]
 authors = [{name = "xinetzone", email = "735613050@qq.com"}]
 dynamic = ["version", "description"]
 license = {file = "LICENSE"}
-name = "note_demo"
+name = "xbook"
 readme = "README.md"
 requires-python = ">=3.10"
 
@@ -47,7 +47,7 @@ coverage = [
   "pytest-cov",
   "pytest-regressions",
   "codecov",
-  "note_demo[test]",
+  "xbook[test]",
 ]
 dev = [
   "pyyaml",
@@ -56,11 +56,11 @@ dev = [
 ]
 test = [
   "pytest",
-  "note_demo[doc]",
+  "xbook[doc]",
 ]
 
 [project.entry-points]
-"sphinx.html_themes" = {note_demo = "note_demo"}
+"sphinx.html_themes" = {xbook = "xbook"}
 
 [tool.flit.sdist]
 # include = ["docs/"]

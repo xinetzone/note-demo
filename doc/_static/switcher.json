@@ -2,11 +2,11 @@
   {
     "name": "main",
     "version": "main",
-    "url": "https://xinetzone.github.io/note_demo/"
+    "url": "https://xinetzone.github.io/xbook/"
   },
   {
     "name": "dev",
     "version": "latest",
-    "url": "https://note_demo.readthedocs.io/zh/latest/"
+    "url": "https://xbook.readthedocs.io/zh/latest/"
   }
 ]

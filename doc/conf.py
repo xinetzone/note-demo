@@ -14,7 +14,7 @@ from pathlib import Path
 
 ROOT = Path('__file__').resolve().parents[1]
 sys.path.extend([str(ROOT/'src')])
-import note_demo
+import xbook
 
 if sys.platform == 'win32':
     import asyncio
@@ -25,7 +25,7 @@ copyright = '2022, xinetzone'
 author = 'xinetzone'
 
 # The full version, including alpha/beta/rc tags
-release = note_demo.__version__
+release = xbook.__version__
 
 
 # -- General configuration ---------------------------------------------------
