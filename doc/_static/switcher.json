@@ -2,11 +2,11 @@
   {
     "name": "main",
     "version": "main",
-    "url": "https://xinetzone.github.io/tvm-book/"
+    "url": "https://xinetzone.github.io/note_demo/"
   },
   {
     "name": "dev",
     "version": "latest",
-    "url": "https://tvm-book.readthedocs.io/zh/latest/"
+    "url": "https://note_demo.readthedocs.io/zh/latest/"
   }
 ]
