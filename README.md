@@ -1,1 +1,5 @@
-# note-demo
+# 笔记本
+
+[![GitHub issues](https://img.shields.io/github/issues/xinetzone/note-demo)](https://github.com/xinetzone/note-demo/issues) [![GitHub forks](https://img.shields.io/github/forks/xinetzone/note-demo)](https://github.com/xinetzone/note-demo/network) [![GitHub stars](https://img.shields.io/github/stars/xinetzone/note-demo)](https://github.com/xinetzone/note-demo/stargazers) [![GitHub license](https://img.shields.io/github/license/xinetzone/note-demo)](https://github.com/xinetzone/note-demo/blob/main/LICENSE) ![repo size](https://img.shields.io/github/repo-size/xinetzone/note-demo.svg) [![contributors](https://img.shields.io/github/contributors/xinetzone/note-demo.svg)](https://github.com/xinetzone/note-demo/graphs/contributors) [![watcher](https://img.shields.io/github/watchers/xinetzone/note-demo.svg)](https://github.com/xinetzone/note-demo/watchers) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/xinetzone/note-demo/main) [![Documentation Status](https://readthedocs.org/projects/note-demo/badge/?version=latest)](https://note-demo.readthedocs.io/zh/latest/?badge=latest)
+
+打造优质的笔记模板。
