@@ -30,7 +30,7 @@ classifiers = [
 ]
 
 [project.urls]
-Home = "https://github.com/xinetzone/note-book"
+Home = "https://github.com/xinetzone/xbook"
 
 [project.optional-dependencies]
 doc = [
