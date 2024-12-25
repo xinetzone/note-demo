@@ -40,6 +40,10 @@
 [download-badge]: https://pepy.tech/badge/xyzstyle
 [download-link]: https://pepy.tech/project/xyzstyle
 
+## 使用
+
+文档见：[xyzstyle 主题](https://xyzstyle.readthedocs.io/zh-cn/latest/?badge=latest)
+
 ## PyPI
 
 支持 PyPI：
