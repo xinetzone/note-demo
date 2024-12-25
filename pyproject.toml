@@ -20,21 +20,32 @@ Home = "https://github.com/xinetzone/xbook"
 
 [project.optional-dependencies]
 doc = [
-  "myst-nb",
-  "xyzstyle",
-  "sphinx-copybutton",
-  "sphinxcontrib-bibtex",
-  "sphinx-thebe",
-  "sphinx-design",
-  "sphinx-automodapi",
-  "sphinx-sitemap",
-  "sphinx-comments",
-  "invoke",
-  "sphinx-autoapi",
+    "xyzstyle",
+    "sphinx",
+    # "ablog",
+    "ipywidgets",
+    "folium",
+    "numpy",
+    "matplotlib",
+    "sphinx-comments",
+    "myst-nb",
+    "nbclient",
+    "pandas",
+    "plotly",
+    "sphinx-design",
+    "sphinx-examples",
+    "sphinx-copybutton",
+    "sphinx-contributors",
+    "sphinx-thebe",
+    "sphinxcontrib-bibtex",
+    "sphinxext-opengraph",
+    "sphinx-sitemap",
+    "sphinx-autoapi",
+    "graphviz",
 ]
 
-dev = [
-  "pdm",
+flows = [
+    "invoke",
 ]
 
 gui = [

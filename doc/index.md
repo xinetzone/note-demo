@@ -6,6 +6,7 @@
 
 topics/index
 about/index
+contributing
 ```
 
 # 索引与表格
