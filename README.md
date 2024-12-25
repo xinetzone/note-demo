@@ -17,8 +17,8 @@
 
 打造优质的笔记模板。
 
-[pypi-badge]: https://img.shields.io/pypi/v/xbook.svg
-[pypi-link]: https://pypi.org/project/xbook/
+[pypi-badge]: https://img.shields.io/pypi/v/xyzstyle.svg
+[pypi-link]: https://pypi.org/project/xyzstyle/
 [issue-badge]: https://img.shields.io/github/issues/xinetzone/xbook
 [issue-link]: https://github.com/xinetzone/xbook/issues
 [fork-badge]: https://img.shields.io/github/forks/xinetzone/xbook
@@ -34,11 +34,11 @@
 [binder-badge]: https://mybinder.org/badge_logo.svg
 [binder-link]: https://mybinder.org/v2/gh/xinetzone/xbook/main
 [install-badge]: https://img.shields.io/pypi/dw/xbook?label=pypi%20installs
-[install-link]: https://pypistats.org/packages/xbook
+[install-link]: https://pypistats.org/packages/xyzstyle
 [status-badge]: https://readthedocs.org/projects/xbook/badge/?version=latest
 [status-link]: https://xbook.readthedocs.io/zh-cn/latest/?badge=latest
-[download-badge]: https://pepy.tech/badge/xbook
-[download-link]: https://pepy.tech/project/xbook
+[download-badge]: https://pepy.tech/badge/xyzstyle
+[download-link]: https://pepy.tech/project/xyzstyle
 
 ## PyPI
 
