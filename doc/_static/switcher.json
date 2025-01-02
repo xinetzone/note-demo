@@ -5,8 +5,13 @@
     "url": "https://xinetzone.github.io/xbook/"
   },
   {
-    "name": "dev",
+    "name": "rtd",
     "version": "latest",
     "url": "https://xbook.readthedocs.io/zh-cn/latest/"
+  }
+  {
+    "name": "xyzstyle",
+    "version": "latest",
+    "url": "https://xyzstyle.readthedocs.io/zh-cn/latest/"
   }
 ]
