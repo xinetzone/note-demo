@@ -199,7 +199,7 @@ myst_enable_extensions = [
 ]
 
 # 添加版本切换器下拉菜单
-# extensions.append("_ext.rtd_version")
+extensions.append("_ext.rtd_version")
 html_theme_options['primary_sidebar_end'] = ["version-switcher",]
 # 定制侧边栏
 html_sidebars = {
