@@ -27,7 +27,6 @@ locale_dirs = ['../locales/']  # po files will be created in this directory
 extensions = [
     "myst_nb",
     "sphinx_design",
-    'autoapi.extension', # 自动生成API文档
     "sphinx.ext.viewcode", # 添加到高亮源代码的链接
     "sphinx.ext.extlinks", # 缩短外部链接
     "sphinx.ext.intersphinx", # 链接到其他文档
